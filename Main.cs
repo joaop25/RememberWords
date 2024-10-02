@@ -62,7 +62,9 @@ namespace RemembersWords
 
             label.TextAlign = ContentAlignment.MiddleCenter;
 
-            label.Width = this.ClientSize.Width; 
+            label.Width = this.ClientSize.Width;
+            label.Height = TextRenderer.MeasureText(label.Text, label.Font, new Size(label.Width, int.MaxValue), TextFormatFlags.WordBreak).Height;
+
             int labelY = (this.ClientSize.Height - label.Height) / 2; 
             label.Location = new Point(0, label.Location.Y);
         }

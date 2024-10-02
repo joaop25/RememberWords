@@ -1,14 +1,20 @@
 [
   {
-    "id": 0,
-    "word": "Hedonismo",
-    "description": "A busca pelo prazer",
-    "data": "2024-10-02T17:36:48.2939166-03:00"
+    "Id": 0,
+    "Word": "Hedonismo",
+    "Description": "A busca pelo prazer",
+    "Data": "2024-10-02T17:36:48.2939166-03:00"
   },
   {
-    "id": 0,
-    "word": "Homeostase",
-    "description": "Equilibrio do circuito de recompensa",
-    "data": "2024-10-02T17:37:01.7681603-03:00"
+    "Id": 0,
+    "Word": "Homeostase",
+    "Description": "Equilibrio do circuito de recompensa",
+    "Data": "2024-10-02T17:37:01.7681603-03:00"
+  },
+  {
+    "Id": 0,
+    "Word": "CQRS",
+    "Description": "É um padrão arquitetural que separa as operações de leitura e gravação de dados em uma aplicação",
+    "Data": "2024-10-02T19:19:22.264991-03:00"
   }
 ]

@@ -52,10 +52,10 @@
             // lblDescription
             // 
             lblDescription.AutoSize = true;
-            lblDescription.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblDescription.Location = new Point(162, 136);
+            lblDescription.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblDescription.Location = new Point(164, 134);
             lblDescription.Name = "lblDescription";
-            lblDescription.Size = new Size(108, 25);
+            lblDescription.Size = new Size(89, 21);
             lblDescription.TabIndex = 1;
             lblDescription.Text = "Description";
             // 
