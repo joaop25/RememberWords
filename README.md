@@ -7,6 +7,7 @@ Implementado em .NET Core 8.0 com Windows Forms, o projeto possui dependência d
 <p align="center">
   <img src="Projeto.png" >
 </p>
+
 **Projeto:** .NET Core, C#, JSON, 3 Camadas, Speech Synthesizer
 
 **Links:**
