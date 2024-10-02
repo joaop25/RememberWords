@@ -1,0 +1,1 @@
+C:\Users\joao.fernandes\Desktop\JOAO MARQUES\codigos\RemembersWords\obj\Release\net8.0-windows\win-x64\RemembersWords.csproj.AssemblyReference.cache
