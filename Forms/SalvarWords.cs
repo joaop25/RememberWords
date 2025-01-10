@@ -14,10 +14,13 @@ namespace RemembersWords.Forms
         {
            JsonService jsonService = new JsonService();
 			var teste = "ok";
+			var teste2 = "ok";
             var word = new Words(txtWord.Text, txtDescription.Text);
             
             jsonService.SalvarWordsJson(word);
             LimparTela();
+			
+			var teste3 = "ok";
         }
         public void LimparTela()
         {
